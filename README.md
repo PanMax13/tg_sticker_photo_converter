@@ -1,5 +1,5 @@
 # tg_sticker_photo_converter
-=======
+
 
 >This is my photo converter to telegram stkier format
 
